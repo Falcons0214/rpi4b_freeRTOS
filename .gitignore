@@ -4,3 +4,8 @@ FreeRTOS/Demo/CORTEX_A72_64-bit_Raspberrypi4/*/project/Release
 FreeRTOS/Demo/CORTEX_A72_64-bit_Raspberrypi4/*/build
 
 FreeRTOS/Demo/CORTEX_A72_64-bit_Raspberrypi4/rpsmg_ping
+
+arm-gnu-toolchain-13.3.rel1-x86_64-aarch64-none-elf
+
+*.elf
+*.list
